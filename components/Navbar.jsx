@@ -56,10 +56,10 @@ const [linkColor, setLinkColor] =useState('#1f2937');
     <div className='flex justify-between items-center bg-black/60 w-full h-full px-2 2xl:px-16'>
       <Link href='/'>
           <Image
-            src='/../public/assets/logo1.png'
-            alt='/'
-            width='125'
+            src="/../public/assets/logo1.png"
+            width='100'
             height='50'
+            alt='/'
             className='cursor-pointer'
           />
           </Link>

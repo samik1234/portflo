@@ -57,8 +57,8 @@ const [linkColor, setLinkColor] =useState('#1f2937');
       <Link href='/'>
           <Image
             src="/../public/assets/logo1.png"
-            width='100'
-            height='50'
+            width='87'
+            height='35'
             alt='/'
             className='cursor-pointer'
           />
